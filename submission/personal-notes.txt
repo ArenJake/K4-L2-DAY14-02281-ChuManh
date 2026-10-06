@@ -2,9 +2,9 @@ PHIẾU CÁ NHÂN — DAY 14
 Điền file này, chạy QC vào submission/qc-j01 và submission/qc-practice, commit rồi nộp link repo.
 Không dán ảnh, toạ độ điểm hay nội dung file export vào đây.
 
-Họ tên / mã học viên:
+Họ tên / mã học viên: Chu Mạnh / 02281
 Object J01 (a/b/c/d theo docs/cases.md) / track ID trong task J01:
-Phiên bản CVAT / overlay đã bật (có/không):
+Phiên bản CVAT / overlay đã bật (có/không):  2.74.1 / có 
 
 J01 — TRACK LÕI
 Frame fit và lý do:
